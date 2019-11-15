@@ -14,3 +14,7 @@
    <img src="https://github.com/drmaniya/EmpowerED/tree/master/screenshots/Update.PNG" width="200">
 </p>
 
+
+
+
+![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Register.PNG)
