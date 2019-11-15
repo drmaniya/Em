@@ -8,7 +8,7 @@
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Login.PNG)
 
 #Create Employee
-![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Data1.png)
+![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Data1.PNG)
 
 #Show
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Data2.PNG)
