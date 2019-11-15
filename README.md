@@ -1,20 +1,20 @@
 
 # UI
 
-Register
+#Register
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Register.PNG)
 
-Login 
+#Login 
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Login.PNG)
 
-Create Employee
+#Create Employee
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Data1.png)
 
-Show
+#Show
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Data2.PNG)
 
-Delete
+#Delete
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Delete.PNG)
 
-Update
+#Update
 ![alt text](https://github.com/drmaniya/EmpowerED/blob/master/screenshots/Update.PNG)
